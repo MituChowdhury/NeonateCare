@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398131980865",
+    "project_id": "baby-healthcare-monitor-8cc59",
+    "storage_bucket": "baby-healthcare-monitor-8cc59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398131980865:android:9c1e0d5fcf1842533974c0",
+        "android_client_info": {
+          "package_name": "com.example.baby_healthcare_monitor_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398131980865-bk2khb2hrj24f5j8a8nae4nni8litkh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfJ6h-4wzsbhwkIDtxH_BC3G-UYDH-24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398131980865-bk2khb2hrj24f5j8a8nae4nni8litkh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
